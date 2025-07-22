@@ -1,2 +1,2 @@
 # Lua-love-exp
-requires [love](love2d.org)
+requires [love](https://love2d.org)
